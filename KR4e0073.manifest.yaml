@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4e0073/v1
 canonical_location: https://kanripo.org/bkk/KR4e0073/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 中丞集
   date: '2015-08-25 00:18:29.389212'
@@ -20,13 +20,13 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR4e0073_000.yaml, hash: 'sha256:156dcdd058ca182cac92c6f45e7e9eff2655e10a5a3917815e2e494582e6b4f4'}
-  - {seq: 1, filename: KR4e0073_001.yaml, hash: 'sha256:a969ede433ba15e9b78fcb409a14444e9c66300d5faa152f4532c0ab6bac983f'}
-  - {seq: 2, filename: KR4e0073_002.yaml, hash: 'sha256:e2e2041d3d58b21591506bb62e0fb5ef825617bebbd583661f4968e9ae80b6d9'}
+  - {seq: 0, filename: KR4e0073_000.yaml, hash: 'sha256:307ca099f63e3f14c5a75d213eaa5dd01709c1a34c210a29b3f49aa58b719797'}
+  - {seq: 1, filename: KR4e0073_001.yaml, hash: 'sha256:230e2e9fa7fcdfcbbb7f56a4d4efdc572883d63d5e2c4c78d1caf79e61f16d7b'}
+  - {seq: 2, filename: KR4e0073_002.yaml, hash: 'sha256:ec2be4336466a85767cedf29251b0ad5b58552093dc74fcaab3c914ca94e6a0e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4e0073_000.markers.yaml, hash: 'sha256:5c34f9d05453cea8f2388c5726b29322793feb62e03e0a1e99c54de8efd26dc8'}
-  - {seq: 1, role: markers, filename: assets/KR4e0073_001.markers.yaml, hash: 'sha256:63a62b37da2a962e75d47e9e97f6d672df9dba2515e3c5001c3d77d0dfbb9ebc'}
-  - {seq: 2, role: markers, filename: assets/KR4e0073_002.markers.yaml, hash: 'sha256:89a294c2e2876d78ddeb3acc552a46f480ab78622518ba1a37042fc0e539f1fc'}
+  - {seq: 0, role: markers, filename: assets/KR4e0073_000.markers.yaml, hash: 'sha256:729ce33d729323f930cf382fcd08f702be594e830885f56659ff9eed48cd043a'}
+  - {seq: 1, role: markers, filename: assets/KR4e0073_001.markers.yaml, hash: 'sha256:3a449f1854f4d75dcdbac2c2ae933c554590d4f23d7fac1bb730559c34b9dd77'}
+  - {seq: 2, role: markers, filename: assets/KR4e0073_002.markers.yaml, hash: 'sha256:df61a2c3e8a1b58f000d7962b7991338a63f96831717330205babd59fa566275'}
 table_of_contents:
 - ref:
     seq: 0
@@ -68,4 +68,7 @@ table_of_contents:
   label: 中丞遺事附録
   type: section
   level: 1
-hash: sha256:03d1794335bc96cc1344f94712b42b4cf8f41d30cde5e256c8ad85bc767fd65b
+hash: sha256:459e7494c1db2b1e4c1e535e3d2b1edb55e22983559133ba7adf9a01d49e3ef6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
